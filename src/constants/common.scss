@@ -1,0 +1,26 @@
+/* Common Style file */
+
+.inner-page-banner {
+    background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-black-shading-red-shard-geometry-banner-background-picture-image_950586.jpg);
+    min-height: 400px;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  
+  .inner-page{
+    background-color: white;
+  }
+  
+  .inner-page h1{
+    font-weight: 600;
+    font-size: 1.5rem;
+  }
+  
+  .MuiButtonBase-root {
+    text-transform: none !important;
+  }
+  
+  .MuiCardHeader-content .MuiCardHeader-title {
+    font-size: 1.2rem;
+  }
